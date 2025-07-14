@@ -32,7 +32,7 @@ Mobile-
 ![screenshot](./solution-mobile.jpg)
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ![Links](https://ayush-awasthi431.github.io/product-preview-card-component/)
 
 ## My process
 
